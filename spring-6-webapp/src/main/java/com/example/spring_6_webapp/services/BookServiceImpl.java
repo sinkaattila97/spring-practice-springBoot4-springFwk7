@@ -13,7 +13,7 @@ public class BookServiceImpl implements BookService {
         this.bookRepository = bookRepository;
     }
 
-    @Override
+    @Override //@Override is necessary because we are implementing an interface method
     public Iterable<Book> findAll() {
         return bookRepository.findAll();
     }

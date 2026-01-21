@@ -1,6 +1,6 @@
-package com.example.spring_7_webapp.repositories;
+package com.example.spring_6_webapp.repositories;
 
-import com.example.spring_7_webapp.domain.Author;
+import com.example.spring_6_webapp.domain.Author;
 import org.springframework.data.repository.CrudRepository;
 
 /**

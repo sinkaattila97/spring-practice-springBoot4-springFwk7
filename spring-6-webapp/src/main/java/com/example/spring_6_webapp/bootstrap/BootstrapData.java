@@ -1,11 +1,11 @@
-package com.example.spring_7_webapp.bootstrap;
+package com.example.spring_6_webapp.bootstrap;
 
-import com.example.spring_7_webapp.domain.Author;
-import com.example.spring_7_webapp.domain.Book;
-import com.example.spring_7_webapp.domain.Publisher;
-import com.example.spring_7_webapp.repositories.AuthorRepository;
-import com.example.spring_7_webapp.repositories.BookRepository;
-import com.example.spring_7_webapp.repositories.PublisherRepository;
+import com.example.spring_6_webapp.domain.Author;
+import com.example.spring_6_webapp.domain.Book;
+import com.example.spring_6_webapp.domain.Publisher;
+import com.example.spring_6_webapp.repositories.AuthorRepository;
+import com.example.spring_6_webapp.repositories.BookRepository;
+import com.example.spring_6_webapp.repositories.PublisherRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

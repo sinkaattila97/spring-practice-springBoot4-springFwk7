@@ -1,4 +1,4 @@
-package com.example.spring_7_webapp.domain;
+package com.example.spring_6_webapp.domain;
 
 import jakarta.persistence.*;
 
